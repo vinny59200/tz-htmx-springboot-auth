@@ -1,6 +1,8 @@
 spring:
   application:
     name: easy-spring-auth
+server:
+  port: 8083
 #  view-component:
 #    local-development: true
 #org:

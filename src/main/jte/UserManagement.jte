@@ -5,17 +5,13 @@
 <html lang="en">
 
 <head>
-    <title>Easy Spring Auth</title>
+    <title>TZ App</title>
     <link rel="stylesheet" href="/css/sakura.css" type="text/css">
     <script src="/htmx_1.9.11.js"></script>
     <script src="/htmx_debug.js"></script>
+     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 <body hx-ext="debug">
-<nav>
-    <h1>
-        Easy Spring Auth
-    </h1>
-</nav>
 <main>
     <table>
         <thead>
